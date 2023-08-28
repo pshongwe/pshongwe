@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pshongwe&label=Profile%20views&color=0e75b6&style=flat" alt="pshongwe" /> </p>
 
-- 🔭 I’m currently working on [printf](https://github.com/pshongwe/printf)
+- 🔭 I’m currently learning Microsoft Azure.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
