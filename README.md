@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pshongwe&label=Profile%20views&color=0e75b6&style=flat" alt="pshongwe" /> </p>
 
-- 🔭 I’m currently prepping for Microsoft Azure Certification.
+- 🔭 I’m ready for my next challenge.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
