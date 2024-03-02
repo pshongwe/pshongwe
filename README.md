@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pshongwe&label=Profile%20views&color=0e75b6&style=flat" alt="pshongwe" /> </p>
 
-- 🔭 I’m ready for my next challenge.
+- 🔭 AWS & Azure Certified Developer. I’m ready for my next certificate challenge.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
