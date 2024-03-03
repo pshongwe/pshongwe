@@ -80,6 +80,8 @@
   <h3>Testing</h3>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+<a href="https://site.mockito.org" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/mockito/images/a5f71b78-c946-4b8e-9c93-ad00deef2792.svg" alt="mockito" width="40" height="40"/> </a>
+<a href="https://nunit.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" alt="NUnit" width="40" height="40"/> </a>
 </div>
 
 <h3 align="left">Support:</h3>
