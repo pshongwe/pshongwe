@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pshongwe&label=Profile%20views&color=0e75b6&style=flat" alt="pshongwe" /> </p>
 
 - 🔭 AWS & Azure Certified Developer. I’m ready for my next certificate challenge.
-- Currently doing ALX Backend Specialization.
+- ALX Backend Specialization Graduate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
