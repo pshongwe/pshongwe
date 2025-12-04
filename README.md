@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pshongwe&label=Profile%20views&color=0e75b6&style=flat" alt="pshongwe" /> </p>
 
-- 🔭 AWS & Azure Certified Developer. Preparing for additional Azure certifications in AI and SQL databases next.
+- 🔭 AWS & Azure Certified Developer. Preparing for additional Azure certifications in AI next.
 - ALX Backend Specialization Graduate.
 
 
